@@ -15,6 +15,7 @@
 ​🏗️ هيكل الحل (Solution Layout)
 ​SuperMarketSystem.sln
 │
+
 ├── 📁 SuperMarket.Core (Class Library - Logic Layer)
 │   ├── Models/ (تمثيل جداول قاعدة البيانات)
 │   │   ├── Product.cs
